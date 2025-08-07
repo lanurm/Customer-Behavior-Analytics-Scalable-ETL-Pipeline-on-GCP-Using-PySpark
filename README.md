@@ -1,0 +1,2 @@
+# Customer-Behavior-Analytics-Scalable-ETL-Pipeline-on-GCP-Using-PySpark
+E-commerce companies often struggle with understanding customer behavior across multiple platforms (app, web, call center). This project builds a scalable data pipeline that unifies, cleans, and analyzes raw event data from multiple sources — enabling personalized product recommendations, churn detection, and regional trend analysis.
